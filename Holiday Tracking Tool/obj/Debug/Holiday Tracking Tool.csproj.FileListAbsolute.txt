@@ -1,0 +1,106 @@
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\ApplicationInsights.config
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\roslyn\csc.exe
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\roslyn\System.Collections.Immutable.dll
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\roslyn\System.Reflection.Metadata.dll
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\roslyn\vbc.exe
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\roslyn\VBCSCompiler.exe
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\roslyn\VBCSCompiler.exe.config
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\Holiday Tracking Tool.dll.config
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\Holiday Tracking Tool.dll
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\Holiday Tracking Tool.pdb
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\Antlr3.Runtime.dll
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\Microsoft.AI.DependencyCollector.dll
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\Microsoft.AI.Web.dll
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\Microsoft.AI.WindowsServer.dll
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\Microsoft.ApplicationInsights.dll
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\Microsoft.Web.Infrastructure.dll
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\Newtonsoft.Json.dll
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\System.Web.Helpers.dll
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\System.Web.Mvc.dll
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\System.Web.Optimization.dll
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\System.Web.Razor.dll
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\System.Web.WebPages.Deployment.dll
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\System.Web.WebPages.dll
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\System.Web.WebPages.Razor.dll
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\WebGrease.dll
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\Microsoft.AI.DependencyCollector.xml
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\Microsoft.AI.Web.xml
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\Microsoft.AI.WindowsServer.xml
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\Microsoft.ApplicationInsights.xml
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\System.Web.Helpers.xml
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\System.Web.Mvc.xml
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\System.Web.Optimization.xml
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\System.Web.Razor.xml
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\System.Web.WebPages.xml
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\System.Web.WebPages.Deployment.xml
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\System.Web.WebPages.Razor.xml
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\Antlr3.Runtime.pdb
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\bin\Newtonsoft.Json.xml
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\obj\Debug\Holiday Tracking Tool.csprojResolveAssemblyReference.cache
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\obj\Debug\Holiday Tracking Tool.dll
+C:\Sushant Singh\personal\Visual Studio Projects\Holiday tracking tools\Holiday Tracking Tool\Holiday Tracking Tool\obj\Debug\Holiday Tracking Tool.pdb
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\ApplicationInsights.config
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\roslyn\csc.exe
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\roslyn\System.Collections.Immutable.dll
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\roslyn\System.Reflection.Metadata.dll
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\roslyn\vbc.exe
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\roslyn\VBCSCompiler.exe
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\roslyn\VBCSCompiler.exe.config
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\Holiday Tracking Tool.dll.config
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\Holiday Tracking Tool.dll
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\Holiday Tracking Tool.pdb
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\Antlr3.Runtime.dll
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\Microsoft.AI.DependencyCollector.dll
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\Microsoft.AI.Web.dll
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\Microsoft.AI.WindowsServer.dll
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\Microsoft.ApplicationInsights.dll
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\Microsoft.Web.Infrastructure.dll
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\Newtonsoft.Json.dll
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\System.Web.Helpers.dll
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\System.Web.Mvc.dll
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\System.Web.Optimization.dll
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\System.Web.Razor.dll
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\System.Web.WebPages.Deployment.dll
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\System.Web.WebPages.dll
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\System.Web.WebPages.Razor.dll
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\WebGrease.dll
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\Microsoft.AI.DependencyCollector.xml
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\Microsoft.AI.Web.xml
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\Microsoft.AI.WindowsServer.xml
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\Microsoft.ApplicationInsights.xml
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\System.Web.Helpers.xml
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\System.Web.Mvc.xml
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\System.Web.Optimization.xml
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\System.Web.Razor.xml
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\System.Web.WebPages.xml
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\System.Web.WebPages.Deployment.xml
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\System.Web.WebPages.Razor.xml
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\Antlr3.Runtime.pdb
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\bin\Newtonsoft.Json.xml
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\obj\Debug\Holiday Tracking Tool.csprojResolveAssemblyReference.cache
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\obj\Debug\Holiday Tracking Tool.dll
+C:\Sushant Singh\personal\EmployeeLeaveManagement\Holiday Tracking Tool\obj\Debug\Holiday Tracking Tool.pdb
